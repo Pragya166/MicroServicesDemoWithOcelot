@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MicroServices Project\\UserServices_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275D711D-DB48-4829-93C4-ABB061493222}|UserServices_App\\UserServices_App.csproj|e:\\microservices project\\userservices_app\\userservices_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275D711D-DB48-4829-93C4-ABB061493222}|UserServices_App\\UserServices_App.csproj|solutionrelative:userservices_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\MicroServices Project\\UserServices_App\\UserServices_App\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserServices_App\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\MicroServices Project\\UserServices_App\\UserServices_App\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserServices_App\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:41:40.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

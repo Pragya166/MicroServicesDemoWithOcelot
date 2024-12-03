@@ -1,0 +1,12 @@
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+E:\MicroServices Project\ProductService_App\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
